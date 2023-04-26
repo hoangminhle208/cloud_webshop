@@ -101,13 +101,11 @@
 				<ul>
 					<li><a href="<%=request.getContextPath()%>/">Trang chủ</a></li>
 
-					<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Cửa hàng <span class="caret"></span></a>
-						<ul class="dropdown-menu" style="background: #94cb32" id="danhmuc2">
+					<li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Danh mục<span class="caret"></span></a>
+						<ul class="dropdown-menu" style="background: #804747" id="danhmuc2">
 						</ul></li>
-					<li><a href="<%=request.getContextPath()%>/shipping">Miễn
-							phí vận chuyển</a></li>
-					<li><a href="<%=request.getContextPath()%>/guarantee">Bảo
-							hành tận nơi</a></li>
+					<li><a href="<%=request.getContextPath()%>/shipping">Vận chuyển</a></li>
+					<li><a href="<%=request.getContextPath()%>/guarantee">Bảo hành</a></li>
 
 					<li><a href="<%=request.getContextPath()%>/contact">Liên hệ</a></li>
 				</ul>

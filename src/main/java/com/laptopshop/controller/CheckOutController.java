@@ -94,12 +94,13 @@ public class CheckOutController {
 				{
 					
 					listsp.add(c.getSanPham());
+					//
 					quanity.put(c.getSanPham().getId(), Integer.toString(c.getSo_luong()));
 									
 				}
 			}
 		}
-		
+
 		model.addAttribute("cart",listsp);
 		model.addAttribute("quanity",quanity);
 		model.addAttribute("user", currentUser);

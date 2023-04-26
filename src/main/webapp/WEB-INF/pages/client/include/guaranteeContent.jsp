@@ -15,7 +15,7 @@
 			</p><br>
 			<p>
 			
-			<b>1. THỜI GIAN ÁP DỤNG:</b> Từ ngày 25/7/2018
+			<b>1. THỜI GIAN ÁP DỤNG:</b> Từ ngày 30/10/2022
 			</p>
 			<br>
 			

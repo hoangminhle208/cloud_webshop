@@ -4,7 +4,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Trang Quản Trị </title>
+        <title>Quản lý shop</title>
     </head>
     <body> 
            <jsp:include page="template/header.jsp"></jsp:include>
